@@ -1,1 +1,17 @@
+Quetão 1 Resolução 
+print("O primeiro progrma a gente nunca esquece")
 
+Quetão 2 Resolução 
+#Programa que escreve informações pessoais
+nome=("Seu nome")
+estado=("Seu nome")
+municipio=("Seu nome")
+print(nome)
+print(estado)
+print(municipio)
+
+Quetão 3 Resolução 
+#Defina a letra da música
+letra("Essa tal liberdade")
+#Mostra a letra na tela
+print("letra")
